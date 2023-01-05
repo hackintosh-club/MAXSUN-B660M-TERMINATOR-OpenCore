@@ -22,7 +22,7 @@
 - SSD: 1. LITEON CV6-8Q128 128G MacOS
 - SSD: 2. Predator GM7000 1TB Windows
 - HDD: 
-- GPU:  RX6800
+- GPU:  RX6800XT
 - Audio: Realtek 
 - Ethernet: Realtek PCle 2.5GbE Family Controller
 - Wireless: 
@@ -57,8 +57,8 @@
 
 ![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/CinebehchR20.JPG)
 
-- Geekbench5 Score AMD RX6800 Metal 
+- Geekbench5 Score AMD RX6800XT Metal 
 
 
-- Geekbench5 Score AMD RX6600 OpenCL
+- Geekbench5 Score AMD RX6800XT OpenCL
 
