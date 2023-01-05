@@ -51,7 +51,7 @@
 
 - Motherboard
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/CinebehchR20.JPG)
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Motherboard.png)
 
 - Geekbench5 Score i5-12400F 
 
