@@ -38,10 +38,6 @@
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
  
- - If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
-
- - Config.plist - Kernel - ProvideCurrentCpuInfo - False
-
  
 ### ScreenShot 
 
