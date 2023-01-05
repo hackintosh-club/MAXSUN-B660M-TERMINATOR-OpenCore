@@ -1,4 +1,8 @@
-# /MAXSUN-B660M-TERMINATOR Hackintosh OpenCore EFI
+# MAXSUN-B660M-TERMINATOR Hackintosh OpenCore EFI
+
+- Motherboard
+
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Motherboard.png)
 
 ### [简体中文](README.zh_CN.md)
 
@@ -45,9 +49,7 @@
 
 
 
-- Motherboard
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Motherboard.png)
 
 - Geekbench5 Score i5-12400F 
 
