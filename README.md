@@ -51,15 +51,15 @@
 
 - Motherboard
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/tree/main/ScreenShot/Motherboard.png)
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/CinebehchR20.JPG)
 
 - Geekbench5 Score i5-12400F 
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/tree/main/ScreenShot/Geekbench5.JPG)
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Geekbench5.JPG)
 
 - Cinebehch R20 Score i5-12400F
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/tree/main/ScreenShot/CinebehchR20.JPG)
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/CinebehchR20.JPG)
 
 - Geekbench5 Score AMD RX6800 Metal 
 
