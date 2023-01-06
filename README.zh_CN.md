@@ -1,6 +1,6 @@
 # 铭瑄-B660M-终结者 Hackintosh OpenCore EFI
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Motherboard.png)
+![image](ScreenShot/Motherboard.png)
 
 ### [简体中文](README.zh_CN.md)
 
@@ -62,13 +62,13 @@
 
 - 关于本机（硬件1）
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/aboutthismac.png)
+![image](ScreenShot/aboutthismac.png)
 
 - Geekbench5 和 Cinebehch R20 跑分 i5-12400F 
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Geekbench5.png)
+![image](ScreenShot/Geekbench5.png)
 
 - 玩嘉 无限玩家M-ATX 白色（硬件1）
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/WJCOOLMANCASE.png)
+![image](ScreenShot/WJCOOLMANCASE.png)
 
