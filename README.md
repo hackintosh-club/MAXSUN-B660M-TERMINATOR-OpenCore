@@ -60,16 +60,13 @@
  
 ### ScreenShot 
 
-- About This Mac
+- About This Mac（Hardware 1）
 
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/aboutthismac.png)
 
-- Geekbench5 Score i5-12400F 
+- Geekbench5 & Cinebehch R20 Score i5-12400F 
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Geekbench5.JPG)
-
-- Cinebehch R20 Score i5-12400F
-
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/CinebehchR20.JPG)
+![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Geekbench5.png)
 
 - WJCOOLMAN MATX White（Hardware 1）
 
