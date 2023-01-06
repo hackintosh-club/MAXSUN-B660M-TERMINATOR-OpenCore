@@ -62,7 +62,7 @@
 
 - About This Mac（Hardware 1）
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/aboutthismac.png)
+![image](ScreenShot/aboutthismac.png)
 
 - Geekbench5 & Cinebehch R20 Score i5-12400F 
 
