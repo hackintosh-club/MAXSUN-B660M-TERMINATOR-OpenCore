@@ -1,6 +1,6 @@
 # MAXSUN-B660M-TERMINATOR Hackintosh OpenCore EFI
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Motherboard.png)
+![image](ScreenShot/Motherboard.png)
 
 ### [简体中文](README.zh_CN.md)
 
@@ -66,9 +66,9 @@
 
 - Geekbench5 & Cinebehch R20 Score i5-12400F 
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/Geekbench5.png)
+![image](ScreenShot/Geekbench5.png)
 
 - WJCOOLMAN MATX White（Hardware 1）
 
-![image](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore/blob/main/ScreenShot/WJCOOLMANCASE.png)
+![image](ScreenShot/WJCOOLMANCASE.png)
 
