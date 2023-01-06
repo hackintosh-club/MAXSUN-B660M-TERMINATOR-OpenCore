@@ -23,8 +23,8 @@
 - SSD: 2. PM981a 256G Pcie 3.0 Windows
 - HDD: Western Digital 1TB
 - GPU: JIESHUO RX5500XT 8G
-- Audio: Realtek 
-- Ethernet: Realtek PCle 2.5GbE Family Controller
+- Audio: Realtek ALC897
+- Ethernet: Realtek 8125 PCle 2.5GbE Family Controller
 - Wireless: Fenvi FV-T919 (BCM94360CD)
 - CPU Cooling：Thermalright AX12R SE ARGB Wihte
 - Display: KTCH27S12 2K 170hz
@@ -39,8 +39,8 @@
 - RAM: PREDATOR 16G*2 DDR4 3600MHz
 - SSD: Western Digital SN750 500G PCIe 3.0 MacOS
 - GPU: YESTON RX6800 16G
-- Audio: Realtek 
-- Ethernet: Realtek PCle 2.5GbE Family Controller
+- Audio: Realtek ALC897
+- Ethernet: Realtek 8125 PCle 2.5GbE Family Controller
 - Wireless: BCM94360CS2
 - CPU Cooling：ID-COOLING FROSTFLOW X 360
 - Display: KUYCON 5K
