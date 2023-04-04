@@ -130,7 +130,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.3 | Lilu.kext</string>
+                    <string>V1.6.4 | Lilu.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -148,7 +148,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0</string>
+                    <string>V1.3.1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -166,7 +166,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMCProcessor.kext</string>
+                    <string>V1.3.1 | SMCProcessor.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -184,7 +184,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMCSuperIO.kext</string>
+                    <string>V1.3.1 | SMCSuperIO.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -202,7 +202,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.9 | AppleALC.kext</string>
+                    <string>V1.8.1 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -274,7 +274,7 @@
                     <key>BundlePath</key>
                     <string>RestrictEvents.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.9</string>
+                    <string>V1.1.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -310,7 +310,7 @@
                     <key>BundlePath</key>
                     <string>RadeonSensor.kext</string>
                     <key>Comment</key>
-                    <string>V0.3.2</string>
+                    <string>V0.3.3</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -328,7 +328,7 @@
                     <key>BundlePath</key>
                     <string>SMCRadeonGPU.kext</string>
                     <key>Comment</key>
-                    <string>V0.3.2</string>
+                    <string>V0.3.3</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1262,6 +1262,8 @@
                 <key>DirectGopRendering</key>
                 <false/>
                 <key>ForceResolution</key>
+                <false/>
+                <key>GopBurstMode</key>
                 <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
