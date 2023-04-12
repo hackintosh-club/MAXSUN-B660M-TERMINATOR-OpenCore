@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/Motherboard.png)
 
-### [简体中文](README.zh_CN.md)
+### [English](https://github.com/hackintosh-efi/MAXSUN-B660M-TERMINATOR-OpenCore)
 
 ### OpenCore
 
