@@ -72,3 +72,9 @@
 
 ![image](ScreenShot/WJCOOLMANCASE.png)
 
+### 联系我们
+
+ - QQ群: 23304408
+
+![image](ScreenShot/QRCode.png)
+
