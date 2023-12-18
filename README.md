@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -57,8 +57,8 @@
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
- 
- 
+
+
 ### ScreenShot 
 
 - About This Mac（Hardware 1）

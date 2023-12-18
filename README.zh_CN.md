@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -57,8 +57,8 @@
 ### 注意事项
 
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- 
- 
+
+
 ### 系统截图
 
 - 关于本机（硬件1）

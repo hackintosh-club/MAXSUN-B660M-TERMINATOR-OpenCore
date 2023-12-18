@@ -87,6 +87,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <false/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -220,7 +222,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.6 | AppleALC.kext</string>
+                    <string>V1.8.8 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -871,7 +873,7 @@
                 <key>LauncherPath</key>
                 <string>Default</string>
                 <key>PickerAttributes</key>
-                <integer>255</integer>
+                <integer>17</integer>
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
@@ -1010,8 +1012,6 @@
                 <dict>
                     <key>revcpu</key>
                     <integer>1</integer>
-                    <key>revcpuname</key>
-                    <string>12th Gen Intel(R) Core(TM) i5-12400F</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
@@ -1038,7 +1038,6 @@
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <array>
                     <string>rtc-blacklist</string>
-                    <string>revcpuname</string>
                     <string>revcpu</string>
                 </array>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1091,13 +1090,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K9332004NK3F78C</string>
+                <string>F5K942200GUK3F7UE</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>1538</integer>
                 <key>ROM</key>
-                <data>+wTDbyKh</data>
+                <data>Iko99RhA</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1105,9 +1104,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro7,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KZ7XYEP7QM</string>
+                <string>F5KZKYZ1P7QM</string>
                 <key>SystemUUID</key>
-                <string>0253346C-8D8A-4098-A893-2C473EBD87B7</string>
+                <string>2BFEB392-C406-4632-BDC3-2A494D2E783F</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1223,7 +1222,7 @@
                     <key>Arguments</key>
                     <string></string>
                     <key>Comment</key>
-                    <string>OpenRuntime.efi</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>LoadEarly</key>
@@ -1245,7 +1244,7 @@
                 </dict>
                 <dict>
                     <key>Arguments</key>
-                    <string></string>
+                    <string>--preserve-boot</string>
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
@@ -1362,7 +1361,7 @@
                 <key>DisableSecurityPolicy</key>
                 <false/>
                 <key>EnableVectorAcceleration</key>
-                <true/>
+                <false/>
                 <key>EnableVmx</key>
                 <false/>
                 <key>ExitBootServicesDelay</key>
